@@ -780,7 +780,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -1039,4 +1039,31 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+.presentation {
+    font-size: 2.3rem;
+}
+
+.row2 {
+    width: 65%;
+    margin: auto;
+}
+
+.citation {
+    font-style: italic;
+    font-size: 1.8rem;
+    width: 48rem;
+    margin: auto;
+    padding-top: 5rem;
+}
+
+.portfolio_paragraphe {
+    font-size: 2.3rem;
+    width: 45rem;
+    margin: auto;
+}
+
+.auteur {
+    font-size: 1.3rem;
 }
